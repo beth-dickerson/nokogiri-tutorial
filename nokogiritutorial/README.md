@@ -1,3 +1,9 @@
+Nokogiri Tutorial
+
+* Commented out line 22 of config/application.rb.
+* Require 'open-uri', instead of 'openssl' 
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
